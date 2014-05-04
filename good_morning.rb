@@ -1,2 +1,2 @@
-puts "God Morning!"
+puts "Good Morning!"
 
